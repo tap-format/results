@@ -1,0 +1,31 @@
+{
+  "name": "@untap/results",
+  "version": "0.1.0",
+  "description": "Formatted results for TAP output",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/untap/results.git"
+  },
+  "keywords": [
+    "untap",
+    "results",
+    "format",
+    "tap"
+  ],
+  "author": "Scott Corgan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/untap/results/issues"
+  },
+  "homepage": "https://github.com/untap/results#readme",
+  "dependencies": {
+    "chalk": "^1.1.1",
+    "hirestime": "^1.0.6",
+    "pretty-ms": "^2.1.0",
+    "rx": "^4.0.7"
+  }
+}
