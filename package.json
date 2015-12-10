@@ -1,5 +1,5 @@
 {
-  "name": "@untap/results",
+  "name": "@tap-format/results",
   "version": "0.1.0",
   "description": "Formatted results for TAP output",
   "main": "index.js",
@@ -8,10 +8,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/untap/results.git"
+    "url": "git+https://github.com/tap-format/results.git"
   },
   "keywords": [
-    "untap",
+    "tap-format",
     "results",
     "format",
     "tap"
@@ -19,9 +19,9 @@
   "author": "Scott Corgan",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/untap/results/issues"
+    "url": "https://github.com/tap-format/results/issues"
   },
-  "homepage": "https://github.com/untap/results#readme",
+  "homepage": "https://github.com/tap-format/results#readme",
   "dependencies": {
     "chalk": "^1.1.1",
     "hirestime": "^1.0.6",
